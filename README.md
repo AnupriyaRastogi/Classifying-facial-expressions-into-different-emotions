@@ -1,6 +1,6 @@
 # Classifying-facial-expressions-into-different-emotions
-Facial expression recognition is a technique that may be carried out by humans or computers and here, our 
-project entails:
+Facial expression recognition is a technique that may be carried out by humans or computers and here, in my 
+project:
 1. Facial Feature Extraction: Face recognition in the surroundings and extraction of facial features from the 
 recognized face region e.g., detecting the shape of face and its components such as eyes, using Haar-cascade in OpenCV.
 2. Facial Expression Interpretation: Examining how the facial features move and/or change, and then 
